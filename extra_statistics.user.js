@@ -24,7 +24,7 @@
 // @require			https://raw.githubusercontent.com/eligrey/Blob.js/master/Blob.js
 // @require			https://raw.githubusercontent.com/eligrey/FileSaver.js/1.2.0/FileSaver.js
 // @require			https://raw.githubusercontent.com/Stuk/jszip/master/dist/jszip.js
-// @require			http://malsup.github.com/jquery.form.js
+// @require			http://malsup.github.io/jquery.form.js
 // @updateURL		https://bitbucket.org/DotIN13/extra_statistics_fix_filesaver/raw/with_report_export/scripts/extra_statistics.user.js
 // @downloadURL		https://bitbucket.org/DotIN13/extra_statistics_fix_filesaver/raw/with_report_export/scripts/extra_statistics.user.js
 
